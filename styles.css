@@ -1,0 +1,22 @@
+body {
+  background-color: bisque;
+}
+h1 {
+  /* vamos aplicar a letra arial*/
+  font-family: "Arial";
+  /*vamos alterar o tamanho da letra para 20pt */
+  font: size 20px;
+  /*alterar a cor da letra*/
+  color: black;
+  /*alinhar o texto ao centro na horizontal*/
+  text-align: center;
+  /*aplicar margem ao lado esquerdo e direito.
+  isso fará com que o texto fique mais ajustado ao centro da tela*/
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  /* alterar a largura com o comando width */
+  width: 1300px;
+  height: auto;
+}
